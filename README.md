@@ -5,6 +5,9 @@ The library is targeted towards VFX & Games and other image processing heavy app
 
 brus is Swedish for "noise".
 
+## Using brus
+Either use the make file to compile a static library, or compile the source as part of your project.
+
 ## Technical details
 The library targets C99. The rationale for this is that C99 is decently supported by all the popular compilers (for MSVC 2013 and onwards.) 
 
