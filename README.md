@@ -5,5 +5,8 @@ The library is targeted towards VFX & Games and other image processing heavy app
 
 brus is Swedish for "noise".
 
-# Licensing
+## Technical details
+The library targets C99. The rationale for this is that C99 is decently supported by all the popular compilers (for MSVC 2013 and onwards.) 
+
+## Licensing
 The main library code (`brus.h` and `brus.c`) is released under MIT license as well as the utilites `brusimg.c`.
