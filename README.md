@@ -17,7 +17,7 @@ brus is Swedish for "noise".
 
 ### Must haves
 - Must be able to lock the PRNG seed.
-- Simple functions like `worley2df(coord_t x, coord_t y) -> float`.
+- Simple functions like `worley2df(coord_t x, coord_t y) -> std::tuple<float, float>`.
 
 ### Desired noise types
 
